@@ -1,0 +1,128 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.movies-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.movie-card {
+  width: 200px;
+  text-align: center;
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.movie-details {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  background-color: #333;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #ffd700; /* Highlight color */
+}
+footer {
+  background-color: #333333;  /* Dark gray footer */
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #00bcd4;  /* Light blue links */
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 5px;
+}
+
+footer a:hover {
+  color: white;
+  background-color: #1e90ff;  /* Light blue background on hover */
+  border-radius: 3px;
+}
+
+
+.navbar ul {
+  list-style: none; /* Remove default bullets */
+  display: flex;
+  gap: 20px; /* Add spacing between items */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline; /* Ensure list items are inline */
+}
+.movie-search {
+  text-align: center;
+  margin: 20px;
+}
+
+.movie-search input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.movie-search button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.movie-results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.movie-card {
+  width: 200px;
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
