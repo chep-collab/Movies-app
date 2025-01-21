@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chep-collab/Movies-app/static/css/main.ff5d2d1c.css",
-    "main.js": "/chep-collab/Movies-app/static/js/main.f328c47b.js",
-    "static/js/563.1b8b1d4b.chunk.js": "/chep-collab/Movies-app/static/js/563.1b8b1d4b.chunk.js",
+    "main.css": "/chep-collab/Movies-app/static/css/main.b6c493cf.css",
+    "main.js": "/chep-collab/Movies-app/static/js/main.aedfdfd4.js",
+    "static/js/317.4e28405a.chunk.js": "/chep-collab/Movies-app/static/js/317.4e28405a.chunk.js",
     "index.html": "/chep-collab/Movies-app/index.html",
-    "main.ff5d2d1c.css.map": "/chep-collab/Movies-app/static/css/main.ff5d2d1c.css.map",
-    "main.f328c47b.js.map": "/chep-collab/Movies-app/static/js/main.f328c47b.js.map",
-    "563.1b8b1d4b.chunk.js.map": "/chep-collab/Movies-app/static/js/563.1b8b1d4b.chunk.js.map"
+    "main.b6c493cf.css.map": "/chep-collab/Movies-app/static/css/main.b6c493cf.css.map",
+    "main.aedfdfd4.js.map": "/chep-collab/Movies-app/static/js/main.aedfdfd4.js.map",
+    "317.4e28405a.chunk.js.map": "/chep-collab/Movies-app/static/js/317.4e28405a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff5d2d1c.css",
-    "static/js/main.f328c47b.js"
+    "static/css/main.b6c493cf.css",
+    "static/js/main.aedfdfd4.js"
   ]
 }
