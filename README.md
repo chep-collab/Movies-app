@@ -65,14 +65,7 @@ npm run build
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your homepage, movie cards, and mobile layout here._
-
-```markdown
-![Homepage](./public/screenshots/homepage.png)
-![Mobile View](./public/screenshots/mobile.png)
-```
+## 
 
 ---
 
